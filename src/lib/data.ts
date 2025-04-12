@@ -42,7 +42,7 @@ export const workExperience = [
 
 export const education = [
   {
-    institution: "Sri Krishna College of Engineering and Technology",
+    institution: "Universidade Regional do Alto Uruguai das Missões",
     location: "Santo Ângelo, Rio Grande do Sul, Brazil",
     degree: "Bacharelado em Ciência da Computação",
     period: "Jan 2022 - Presente",
