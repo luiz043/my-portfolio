@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "Luiz Henrique Koehler Conrado",
-  location: "RS, Brasil",
+  location: "Santo Ângelo, Rio Grande do Sul - Brasil",
   email: "lh864038@gmail.com",
   github: "https://github.com/luiz043",
   linkedin: "https://www.linkedin.com/in/luiz-henrique-koehler-conrado/",
