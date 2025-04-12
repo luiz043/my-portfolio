@@ -1,60 +1,55 @@
 export const personalInfo = {
-  name: "Rishikesh S",
-  location: "Coimbatore, India",
-  email: "rkesh2003@gmail.com",
-  github: "https://github.com/rishikesh2003",
-  linkedin: "https://www.linkedin.com/in/rishikeshs/",
+  name: "Luiz Henrique Koehler Conrado",
+  location: "RS, Brasil",
+  email: "lh864038@gmail.com",
+  github: "https://github.com/luiz043",
+  linkedin: "https://www.linkedin.com/in/luiz-henrique-koehler-conrado/",
 };
 
 export const workExperience = [
   {
-    company: "Chatbyte GmbH",
-    location: "Remote",
-    position: "Software Engineer",
-    period: "Mar 2024 - Present",
+    company: "IA Connect",
+    location: "Santo Ângelo, Rio Grande do Sul - Brazil",
+    position: "Desenvolvedor Front-End",
+    period: "Maio 2024 - Present",
     achievements: [
-      "Designed and implemented business logic for AWS Lambdas using the Serverless Framework, forming the backbone of the application's functionality and ensuring seamless backend operations.",
-      "Built a comprehensive admin panel for managing content, user data, and analytics.",
-      "Contributed to the development and integration of a scalable CMS for managing blog content and other platform data.",
-      "Reduced database costs by introducing materialized views, optimizing query performance and resource usage.",
-      "Drove the integration of a custom affiliate marketing system, enabling seamless tracking and reporting of referrals and user activities.",
-      "Integrated Text-to-Speech (TTS) services for enhanced user experiences, optimizing both frontend and backend systems.",
-      "Collaborated with cross-functional teams to deliver high-quality features, actively reviewing pull requests to ensure code quality, adherence to standards, and efficient implementation.",
+      "Trabalho de desenvolvimento web front end com Vue3 com typescript e frameworks como vuetify, BootStrap; utilizando Material UI para o Design.",
+      
     ],
   },
   {
-    company: "DevCrew",
-    location: "Coimbatore, India",
-    position: "Software Engineer",
-    period: "Mar 2023 - Mar 2024",
+    company: "Prefeitura",
+    location: "Santo Ângelo, Rio Grande do Sul - Brazil",
+    position: "Estagiário",
+    period: "Jan 2024 - Mai 2024",
     achievements: [
-      "Developed responsive frontend components using React.js, enhancing user experience and app performance.",
-      "Optimized JavaScript solutions to improve load times and data-fetching efficiency.",
+      "Trabalhei principalmente com questões administrativas e de interpretar; arquivar, e gerar documentos oficiais da prefeitura.",
+      
     ],
   },
   {
-    company: "Phoenitags",
-    location: "Coimbatore, India",
-    position: "Software Engineering Intern",
-    period: "Jan 2023 - Mar 2023",
+    company: "Pippi Pneus",
+    location: "Santo Ângelo, Rio Grande do Sul - Brazil",
+    position: "Estagiário - Suporte Técnico",
+    period: "Jan 2024 - Mai 2024",
     achievements: [
-      "Built interactive UIs with React.js, focusing on reusable components and performance optimization.",
-      "Implemented JavaScript-based features like user authentication and real-time updates.",
+      "Consegui experiência com suporte técnico, como a resolução de problemas de hardware e software.",
+      "Aprendi como é um atendimento ao cliente, e como trabalhar em equipe.",
     ],
   },
+
 ];
 
 export const education = [
   {
     institution: "Sri Krishna College of Engineering and Technology",
-    location: "Coimbatore, India",
-    degree: "B Tech Information Technology",
-    period: "Jun 2021 - Jun 2025",
+    location: "Santo Ângelo, Rio Grande do Sul, Brazil",
+    degree: "Bacharelado em Ciência da Computação",
+    period: "Jan 2022 - Presente",
     achievements: [
-      "President of the Department of Information Technology",
-      "G20 student delegate",
-      "Organized multiple technical workshops and events",
-      "Represented my college in multiple national and international hackathons and won.",
+      "2022 - Segurança em tecnologia",
+      "2023 - MINICURSO DE PHP COM BANCO DE DADOS",
+      "2024 - O profissional de Computação e o Mercado de Ti",
     ],
   },
 ];
@@ -63,18 +58,17 @@ export const skills = {
     "TypeScript",
     "JavaScript",
     "Python",
-    "C++",
-    "Java",
-    "Solidity",
+    "C",
+
   ],
   frontendDevelopment: [
-    "Nextjs",
-    "Reactjs",
-    "React Native",
-    "Shadcn UI",
+    "Vue JS",
     "Tailwind CSS",
     "HTML",
     "CSS",
+    "Material Design",
+    "Vuetify",
+    "Prime Vue"
   ],
   backendDevelopment: ["Nodejs", "Expressjs"],
   databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
